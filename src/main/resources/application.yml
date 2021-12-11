@@ -1,0 +1,8 @@
+ewa:
+  api:
+    url: https://web.ewa.ua/ewa/api
+    version: v12
+    email: ovsianik_@ukr.net
+    token: 0ded288a-2dd4-40d7-a726-273193367b73
+
+security.token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJpbnN1cmFuY2VhcGlrZXkifQ.vwDZLrbFkTxnY6xv_lG2fRkvXSferWKM81LvWEJjumY
